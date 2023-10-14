@@ -7,3 +7,4 @@ dependencies:
   - IPython
   - ipywidgets
   - matplotlib
+  - voila
